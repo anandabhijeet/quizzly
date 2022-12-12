@@ -1,0 +1,7 @@
+.answerCard{
+    padding:8px;
+    /* display: inline-block; */
+    margin: 16px 0px 16px 0px;
+    border-radius: 16px;
+    background-color: #efefef;
+}

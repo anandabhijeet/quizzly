@@ -1,0 +1,18 @@
+.achiementsInventory-box{
+    /* width:720px; */
+    border-radius: 18px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.pentagon{
+    position: relative;
+	width: 97.5px;
+	height: 90px;
+	background: rgba(252, 147, 1, 0.363);
+	clip-path: polygon( 50% 0, 100% 38%, 81% 100%, 19% 100%, 0 38%);
+    margin: 16px 32px;
+    box-shadow: rgba(202, 181, 88, 0.25) 0px 30px 60px -12px inset, rgba(105, 44, 1, 0.3) 0px 18px 36px -18px inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
